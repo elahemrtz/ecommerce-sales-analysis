@@ -18,6 +18,5 @@ Python, pandas, matplotlib, seaborn, Jupyter, Streamlit
 ## Project Structure
 - `data/` — raw dataset
 - `notebooks/` — analysis notebooks
-- `images/` — exported charts
 - `app.py` _ Interactive Dashboard
 
