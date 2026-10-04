@@ -3,3 +3,6 @@ numpy
 matplotlib
 seaborn
 jupyter
+seaborn
+scipy
+streamlit

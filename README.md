@@ -13,12 +13,11 @@ using 12 months of synthetic sales data.
 - How Concentrated is revenue?
 
 ## Tools
-Python, pandas, matplotlib, seaborn, Jupyter
+Python, pandas, matplotlib, seaborn, Jupyter, Streamlit
 
 ## Project Structure
 - `data/` — raw dataset
 - `notebooks/` — analysis notebooks
 - `images/` — exported charts
+- `app.py` _ Interactive Dashboard
 
-## Status
-🚧 Work in progress
