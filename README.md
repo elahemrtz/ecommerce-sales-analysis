@@ -18,5 +18,5 @@ Python, pandas, matplotlib, seaborn, Jupyter, Streamlit
 ## Project Structure
 - `data/` — raw dataset
 - `notebooks/` — analysis notebooks
-- `app.py` _ Interactive Dashboard
+- `app.py` _ Interactive Dashboard, Run locally with: `streamlit run app.py`
 
