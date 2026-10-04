@@ -7,12 +7,13 @@ using 12 months of synthetic sales data.
 
 ## Business Questions
 - Which categories drive the most revenue and units?
-- Is there a relationship between ratings and sales?
-- What seasonal patterns exist across the 12 months?
-- How concentrated is revenue among top products?
+- Is there a relationship between price and sales volume?
+- Do Customer ratings correlate with sales?
+- Does the catalog show seasonal patterns across the 12-month period?
+- How Concentrated is revenue?
 
 ## Tools
-Python, pandas, numpy, matplotlib, seaborn, Jupyter
+Python, pandas, matplotlib, seaborn, Jupyter
 
 ## Project Structure
 - `data/` — raw dataset
